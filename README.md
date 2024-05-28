@@ -1,3 +1,6 @@
+
+![CheatBoard (1)](https://github.com/talha828/InstaClipper-Pro/assets/61588132/8b73dff1-69ed-4d4c-ae70-bd9a6c658497)
+
 # Python Script for Batch Video Processing and Instagram Uploads
 
 This repository contains two Python scripts that automate video processing and uploading to Instagram:
@@ -17,11 +20,16 @@ This repository contains two Python scripts that automate video processing and u
 * **Customizable Settings:** Adjust clip duration, target dimensions, and captions to match your specific preferences.
 * **Automatic Uploads (Optional):** Schedule automated uploads of the processed videos to your Instagram account using the `instagram_uploader.py` script. (**Note:** Due to Instagram's automation restrictions, consider using this script with caution and at your own risk.)
 
+
+
+
 ## Benefits
 
 * **Streamlined Workflow:** Simplifies the process of creating and sharing engaging video content on Instagram.
 * **Consistent Formatting:** Ensures a uniform presentation for all your Instagram Reels.
 * **Increased Efficiency:** Saves you valuable time by automating repetitive tasks.
+
+
 
 ## Installation
 
@@ -47,6 +55,8 @@ This repository contains two Python scripts that automate video processing and u
 * `target_height`: Set the desired height for the resized videos.
 * `start_part`: Choose a starting number for the clip titles.
 
+ ![CheatBoard (2)](https://github.com/talha828/InstaClipper-Pro/assets/61588132/50d01519-9b5c-437a-8821-6eaf4f9e23aa) 
+
 **Run video processing:** Execute `python video_processor.py` in your terminal.
 
 **Instagram upload (optional):**
@@ -54,6 +64,8 @@ This repository contains two Python scripts that automate video processing and u
 * Update `username` and `password` in `instagram_uploader.py` with your Instagram credentials.
 * Ensure you have a Chrome browser installed.
 * Run `python instagram_uploader.py` in your terminal. (**Disclaimer:** Use this script responsibly, as unauthorized automation may violate Instagram's terms of service.)
+
+![CheatBoard (3)](https://github.com/talha828/InstaClipper-Pro/assets/61588132/cfdfbb58-bfe5-4629-918d-63c40171e419)
 
 ## Note
 
