@@ -5,67 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c24117c6-34f2-40db-921a-cd45b3be6976" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/video_automation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 1.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 10.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 11.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 12.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 13.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 14.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 15.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 16.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 17.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 18.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 19.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 2.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 20.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 21.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 22.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 23.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 24.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 25.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 26.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 27.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 28.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 29.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 3.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 30.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 31.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 32.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 33.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 34.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 35.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 36.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 37.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 38.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 4.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 5.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 6.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 7.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 8.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/Demon Slayer 2 Part 9.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/1.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/10.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/11.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/2.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/3.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/4.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/5.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/6.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/7.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/8.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/9.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insta_automation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/10.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/2.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/3.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/4.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/5.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/6.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/7.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/8.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/9.mp4" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,14 +43,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.insta_automation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.insta_upload.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.whatsapp_automation.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\talha\PycharmProjects\video_automation" />

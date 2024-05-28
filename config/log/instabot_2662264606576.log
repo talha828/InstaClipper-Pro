@@ -1,0 +1,14 @@
+2024-05-24 12:23:32,220 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2024-05-24 12:23:32,220 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\talha\PycharmProjects\video_automation\.venv\lib\site-packages\instabot\bot\bot.py
+2024-05-24 12:23:32,221 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2024-05-24 12:23:33,035 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2024-05-24 12:23:33,763 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2024-05-24 12:23:34,577 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2024-05-24 12:23:35,396 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2024-05-24 12:23:37,421 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [400]>
+2024-05-24 12:23:37,422 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"challenge_required","challenge":{"url":"https://i.instagram.com/challenge/AXFJQEjiBeEfnUktzUJWZ5K_CBRbF_xjjAhX_7-TmHgRqHgiZen_TYvmbeQt2wjmpC_jcA0/Afydv_1T5WPWNJRH2BiEck66VoQ6lTS85lhNT1R_ifU3HVm_IX8LhCk3tU_zyTtvj00RGtDH5ZXpkg/","api_path":"/challenge/AXFJQEjiBeEfnUktzUJWZ5K_CBRbF_xjjAhX_7-TmHgRqHgiZen_TYvmbeQt2wjmpC_jcA0/Afydv_1T5WPWNJRH2BiEck66VoQ6lTS85lhNT1R_ifU3HVm_IX8LhCk3tU_zyTtvj00RGtDH5ZXpkg/","hide_webview_header":true,"lock":true,"logout":false,"native_flow":true,"flow_render_type":0},"status":"fail","error_type":"checkpoint_challenge_required"}'
+2024-05-24 12:23:37,422 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2024-05-24 12:23:37,422 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: challenge_required
+2024-05-24 12:23:37,422 - instabot version: 0.117.0 (api) - INFO - Error type: checkpoint_challenge_required
+2024-05-24 12:23:38,355 - instabot version: 0.117.0 (bot_video) - INFO - Started uploading 'C:\Users\talha\PycharmProjects\video_automation\output\Demon Slayer 2 Part 6.mp4'
+2024-05-24 12:23:40,419 - instabot version: 0.117.0 (bot_video) - INFO - Video 'C:\Users\talha\PycharmProjects\video_automation\output\Demon Slayer 2 Part 6.mp4' is not uploaded .
